@@ -14,7 +14,7 @@
         url="https://github.com/myabkzmbb-max/Khane_Bazi/releases/download/v1.0.1/MyApp-v1.0.1.zip"
         sparkle:version="1.0.1"
         length="12345678"
-        type="application/octet-stream" />
+        type="application/zip" />
 
     </item>
 
